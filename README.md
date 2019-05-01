@@ -1,4 +1,4 @@
-# 代写的Web项目  
+# 代写的Java Web项目  
 项目名称：钢材管理系统  
-J2EE 基于框架bootstrap  
-开发模式MVC
+前台框架bootstrap3  
+开发模式为MVC
